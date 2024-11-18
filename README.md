@@ -5,7 +5,9 @@
 -  I’m looking to collaborate on **open-source projects**, **web development** projects, or **anything tech-related** to enhance my skills.
 - 📫 How to reach me: Feel free to contact me via **email** at bordonadoyanis@gmail.com or via my **Discord**: Jetcodes.
 -  Pronouns: **He/Him**.
- **I love tackling challenges and learning new programming languages. I also have a background in **STI2D SIN** with honors!** 
+-  **I love tackling challenges and learning new programming languages. I also have a background in **STI2D SIN** with honors!** 
+  
+ 
 
 <!---
 Jetcodes0/Jetcodes0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
